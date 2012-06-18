@@ -2,6 +2,8 @@ This project resulted from my undergraduate research project in the Department o
 
 This is a library for scheduling users in relay-assisted OFDMA networks like LTE-Advanced. It uses the LTE-Advanced specifications as close as possible.
 
+This library uses RandLib, available at http://github.com/skandhurkat/RandLib
+
 Support for simulating relays is to be added (by others). The system simulates path loss, shadowing and rayleigh fading (iid).
 
 Packet generation is done using a Poisson process, assuming uniformly sized packets, but it is very easy to add other traffic models by changing a few lines of code.
