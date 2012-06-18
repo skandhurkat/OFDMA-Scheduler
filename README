@@ -1,4 +1,4 @@
-This project resulted from my undergraduate research project in the Department of Electrical Engineering at the Indian Institute of Technology, Bombay.
+This project resulted from my undergraduate research project in the Department of Electrical Engineering at the Indian Institute of Technology, Bombay. It is distributed under the GNU GPL v3, or (at your option) a higher version of the GNU GPL.
 
 This is a library for scheduling users in relay-assisted OFDMA networks like LTE-Advanced. It uses the LTE-Advanced specifications as close as possible.
 
